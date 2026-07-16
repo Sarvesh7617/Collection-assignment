@@ -1,0 +1,32 @@
+export const products = [
+  {
+    id: 1,
+    title: "Pokemon Charizard",
+    category: "Cards",
+    condition: "Mint",
+    price: 2500,
+    seller: "Rahul",
+    location: "Delhi",
+    image: "https://picsum.photos/300/200?random=1",
+  },
+  {
+    id: 2,
+    title: "Hot Wheels Mustang",
+    category: "Die Cast",
+    condition: "Used",
+    price: 1800,
+    seller: "Aman",
+    location: "Mumbai",
+    image: "https://picsum.photos/300/200?random=2",
+  },
+  {
+    id: 3,
+    title: "Marvel Action Figure",
+    category: "Figures",
+    condition: "New",
+    price: 3200,
+    seller: "Priya",
+    location: "Lucknow",
+    image: "https://picsum.photos/300/200?random=3",
+  },
+];
